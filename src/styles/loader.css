@@ -1,0 +1,12 @@
+.backimage { 
+  height: 100%; 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.Hypnosis {
+    align-items: center;
+    position: absolute;
+      top: 50%;
+      left: 50%;
+  }
